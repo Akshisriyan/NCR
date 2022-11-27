@@ -1,5 +1,6 @@
 ﻿/*
- * C# Program to Calculate the Value of nCr
+ *
+ Scientific cal  C# Program to Calculate the Value of nCr
  */
 using System;
 using System.Collections.Generic;
