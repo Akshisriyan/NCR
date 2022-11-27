@@ -1,0 +1,15 @@
+D:\.NET Projects\NCR\bin\Debug\net7.0\NCR.exe
+D:\.NET Projects\NCR\bin\Debug\net7.0\NCR.deps.json
+D:\.NET Projects\NCR\bin\Debug\net7.0\NCR.runtimeconfig.json
+D:\.NET Projects\NCR\bin\Debug\net7.0\NCR.dll
+D:\.NET Projects\NCR\bin\Debug\net7.0\NCR.pdb
+D:\.NET Projects\NCR\obj\Debug\net7.0\NCR.csproj.AssemblyReference.cache
+D:\.NET Projects\NCR\obj\Debug\net7.0\NCR.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET Projects\NCR\obj\Debug\net7.0\NCR.AssemblyInfoInputs.cache
+D:\.NET Projects\NCR\obj\Debug\net7.0\NCR.AssemblyInfo.cs
+D:\.NET Projects\NCR\obj\Debug\net7.0\NCR.csproj.CoreCompileInputs.cache
+D:\.NET Projects\NCR\obj\Debug\net7.0\NCR.dll
+D:\.NET Projects\NCR\obj\Debug\net7.0\refint\NCR.dll
+D:\.NET Projects\NCR\obj\Debug\net7.0\NCR.pdb
+D:\.NET Projects\NCR\obj\Debug\net7.0\NCR.genruntimeconfig.cache
+D:\.NET Projects\NCR\obj\Debug\net7.0\ref\NCR.dll
